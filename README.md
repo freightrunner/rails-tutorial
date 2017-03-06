@@ -8,6 +8,8 @@ This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
+Now At: Chapter 2.0
+
 Heroku address:  https://infinite-tundra-79398.herokuapp.com/ 
 
 This README would normally document whatever steps are necessary to get the
